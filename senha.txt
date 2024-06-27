@@ -1,0 +1,1 @@
+Exemplo de arquivos para o git não sincronizar, estes arquivos e/ou pastas estão descritros no .gitignore
